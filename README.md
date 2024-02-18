@@ -5,7 +5,7 @@
 ## <img src="./assets/collaborate.gif" width="35"/> About Me
 <br/>&nbsp;&nbsp;
 <img align="right" alt="coding" width="300" src="./assets/developer.png"/> &nbsp;&nbsp;
-- 💓 I’m interested in Full Stack Development
+- 💓 I’m interested in Data Analyst
 - 👀 I’m looking to collaborate on Open Source Projects<br>
 - 📩 <a href="mailto:mfazilkp7@gmail.com">How to reach me</a><br>
 - 💻 <a href="https://fazil-kp.github.io/fazil.in/">Portfolio</a><br>
@@ -69,16 +69,16 @@
 ## <img src="./assets/graph-animation.gif" width="30"/> GitHub Stats:
 <br>
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=fazil-kp&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fazil-kp&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fazil-kp&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact) 
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=Irfana-Fasila&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Irfana-Fasila&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Irfana-Fasila&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact) 
 
 <br><br>
 
 ## <img src="./assets/trophies.gif" width="30"/> GitHub Trophies
 <br>
 
-![](https://github-profile-trophy.vercel.app/?username=fazil-kp&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Irfana-Fasila&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
 <br>
 
@@ -102,8 +102,8 @@
 ## Loved my work? <img src="assets/Heart on Fire.png" width="30">
 <br>
 
-<img src="assets/Star.png" width="25"/>&nbsp;[Give a star to this project](https://github.com/fazil-kp/fazil-kp) <br/>
-<img src="assets/Folded Hands Light Skin Tone.png" width="25"/>&nbsp;[Follow me on GitHub](https://github.com/fazil-kp)<br/>
+<img src="assets/Star.png" width="25"/>&nbsp;[Give a star to this project](https://github.com/Irfana-Fasila/Irfana-Fasila) <br/>
+<img src="assets/Folded Hands Light Skin Tone.png" width="25"/>&nbsp;[Follow me on GitHub](https://github.com/Irfana-Fasila)<br/>
 <img src="assets/Hot Beverage.png" width="25"> [Buy me a coffee](https://www.buymeacoffee.com/mfazilkp10t) (Tired of drinking Tea)
 
 <br><br><br>

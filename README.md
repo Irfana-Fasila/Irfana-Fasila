@@ -84,7 +84,7 @@
 
 <img src="assets/Star.png" width="25"/>&nbsp;[Give a star to this project](https://github.com/Irfana-Fasila/Irfana-Fasila) <br/>
 <img src="assets/Folded Hands Light Skin Tone.png" width="25"/>&nbsp;[Follow me on GitHub](https://github.com/Irfana-Fasila)<br/>
-<img src="assets/Hot Beverage.png" width="25"> [Buy me a coffee](https://www.buymeacoffee.com/mfazilkp10t) (Tired of drinking Tea)
+<img src="assets/Hot Beverage.png" width="25"> [Buy me a coffee](https://www.buymeacoffee.com/irfana_fasila) (Tired of drinking Tea)
 
 <br><br><br>
 

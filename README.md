@@ -19,12 +19,7 @@
 <p align="left"> 
 <a href = "https://www.linkedin.com/in/irfana-fasila-k-040482235/"><img src="https://img.icons8.com/fluency/1x/linkedin.png"/></a>
 <a href = "https://www.hackerrank.com/profile/mfazilkp7"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo"/></a>
-<a href = "https://www.instagram.com/fazil__.__ "><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://wa.me/8281088823 "><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/></a>
-<a href = "https://www.youtube.com/channel/UCVqYXdZZAwP2dkEDPHXVgSA"><img width="48" height="48" src="https://img.icons8.com/color/48/youtube-play.png" alt="youtube-play"/></a>
-<a href = "https://twitter.com/FazilKp15"><img width="48" height="48" src="https://img.icons8.com/nolan/64/twitterx.png" alt="twitterx"/></a>
-<a href = "https://www.facebook.com/fazilkp.mohammed/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/facebook-new.png" alt="facebook-new"/></a>
-<a href = "https://www.buymeacoffee.com/mfazilkp10t"><img width="45" height="45" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-buy-me-a-coffee-help-creators-receive-support-from-their-audience-logo-shadow-tal-revivo.png" alt="external-buy-me-a-coffee-help-creators-receive-support-from-their-audience-logo-shadow-tal-revivo"/></a></p>
+
 <br><br>
 
 

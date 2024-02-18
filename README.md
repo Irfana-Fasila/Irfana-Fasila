@@ -5,7 +5,7 @@
 ## <img src="./assets/collaborate.gif" width="35"/> About Me
 <br/>&nbsp;&nbsp;
 <img align="right" alt="coding" width="300" src="./assets/developer.png"/> &nbsp;&nbsp;
-- 💓 I’m interested in Full Stack Development
+- 💓 I’m interested in Data Analyst
 - 👀 I’m looking to collaborate on Open Source Projects<br>
 - 📩 <a href="mailto:mfazilkp7@gmail.com">How to reach me</a><br>
 - 💻 <a href="https://fazil-kp.github.io/fazil.in/">Portfolio</a><br>

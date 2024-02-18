@@ -5,10 +5,10 @@
 ## <img src="./assets/collaborate.gif" width="35"/> About Me
 <br/>&nbsp;&nbsp;
 <img align="right" alt="coding" width="300" src="./assets/developer.png"/> &nbsp;&nbsp;
-- 💓 I’m interested in Data Analyst
+- 💓 I’m interested in Data Analysis
 - 👀 I’m looking to collaborate on Open Source Projects<br>
-- 📩 <a href="mailto:mfazilkp7@gmail.com">How to reach me</a><br>
-- 💻 <a href="https://fazil-kp.github.io/fazil.in/">Portfolio</a><br>
+- 📩 <a href="mailto:irfanafasilak140@gmail.com">How to reach me</a><br>
+<!-- - 💻 <a href="https://fazil-kp.github.io/fazil.in/">Portfolio</a><br> -->
 <br><br>
 
 
@@ -18,7 +18,7 @@
 
 <p align="left"> 
 <a href = "https://www.linkedin.com/in/irfana-fasila-k-040482235/"><img src="https://img.icons8.com/fluency/1x/linkedin.png"/></a>
-<a href = "https://www.hackerrank.com/profile/mfazilkp7"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo"/></a>
+<a href = "https://www.hackerrank.com/profile/irfanafasilak140"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo"/></a>
 
 <br><br>
 

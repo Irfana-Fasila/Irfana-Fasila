@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/coding.gif" height="250"></p>
+<!-- <p align="center"><img src="./assets/coding.gif" height="250"></p> -->
 
 <h1 align="center">Hi, I'm Irfana Fasila <img src="./assets/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35"  /> </h1>
 

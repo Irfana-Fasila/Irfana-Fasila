@@ -1,14 +1,14 @@
-<!-- <p align="center"><img src="./assets/coding.gif" height="250"></p> -->
 
-<h1 align="center">Hi, I'm Irfana Fasila <img src="./assets/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35"  /> </h1>
+
+<h1 align="center">Hi, I'm Irfana Fasila <img src="https://img.freepik.com/premium-vector/stock-exchange-trading-growth-illustration_310941-201.jpg?w=900" 
+alt="Waving Hand Light Skin Tone" width="35"  /> </h1>
 
 ## <img src="./assets/collaborate.gif" width="35"/> About Me
 <br/>&nbsp;&nbsp;
 <img align="right" alt="coding" width="300" src="./assets/developer.png"/> &nbsp;&nbsp;
-- 💓 I’m interested in Data Analysis
+- 💓 I am passionate about data analysis and development, driven by the desire to uncover insights and create impactful solutions through data-driven approaches.
 - 👀 I’m looking to collaborate on Open Source Projects<br>
 - 📩 <a href="mailto:irfanafasilak140@gmail.com">How to reach me</a><br>
-<!-- - 💻 <a href="https://fazil-kp.github.io/fazil.in/">Portfolio</a><br> -->
 <br><br>
 
 

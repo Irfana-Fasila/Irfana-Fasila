@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I'm Irfana Fasila <img src="https://img.freepik.com/premium-vector/stock-exchange-trading-growth-illustration_310941-201.jpg?w=900" 
+<h1 align="center">Hi, I'm Irfana Fasila <img src="./assets/Waving%20Hand%20Light%20Skin%20Tone.png" 
 alt="Waving Hand Light Skin Tone" width="35"  /> </h1>
 
 ## <img src="./assets/collaborate.gif" width="35"/> About Me

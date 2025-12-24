@@ -6,7 +6,7 @@ alt="Waving Hand Light Skin Tone" width="35"  /> </h1>
 ## <img src="./assets/collaborate.gif" width="35"/> About Me
 <br/>&nbsp;&nbsp;
 <img align="right" alt="coding" width="300" src="./assets/developer.png"/> &nbsp;&nbsp;
-- 💓 I am passionate about data analysis and development, driven by the desire to uncover insights and create impactful solutions through data-driven approaches
+- 💓 I am working as a Strategic Analyst at Mercato Minds Pvt.Ltd, Also working as a full-Stack Developer in Medizintek
 - 👀 I’m looking to collaborate on Open Source Projects<br>
 - 📩 <a href="mailto:irfanafasilak140@gmail.com">How to reach me</a><br>
 <br><br>
